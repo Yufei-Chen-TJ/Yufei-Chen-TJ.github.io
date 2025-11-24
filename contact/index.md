@@ -22,8 +22,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="address"
-  tooltip="Room , Zhixin Building, Tongji University (Jiading Campus), 4800 Cao'an Highway, Jiading District, Shanghai."
-  text="上海市嘉定区曹安公路4800号同济大学(嘉定校区)智信馆"
+  tooltip="Room 437, Zhixin Building, Tongji University (Jiading Campus), 4800 Cao'an Highway, Jiading District, Shanghai."
+  text="上海市嘉定区曹安公路4800号同济大学(嘉定校区)智信馆437"
   link="https://j.map.baidu.com/48/zdUJ"
 %}
 
