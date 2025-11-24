@@ -1,7 +1,7 @@
 ---
 title: 教学
 nav:
-  order: 4
+  order: 3
   tooltip: 教学成果
 ---
 
