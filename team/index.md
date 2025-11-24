@@ -1,11 +1,11 @@
 ---
-title: 人员
+title: 人员(Team)
 nav:
   order: 4
-  tooltip: 团队人员
+  tooltip: 团队人员(About our team)
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}人员
+# {% include icon.html icon="fa-solid fa-users" %}人员(Team)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
