@@ -1,11 +1,11 @@
 ---
-title: 教学
+title: 教学(Courses)
 nav:
   order: 3
-  tooltip: 教学成果
+  tooltip: 课程和教学成果(Courses and Teaching Achievements)
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}教学
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}教学(Courses)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
