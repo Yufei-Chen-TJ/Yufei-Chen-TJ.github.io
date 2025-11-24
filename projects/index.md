@@ -1,11 +1,11 @@
 ---
-title: 项目
+title: 项目(Projects)
 nav:
   order: 2
-  tooltip: 科研项目
+  tooltip: 科研项目(Research projects)
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}项目
+# {% include icon.html icon="fa-solid fa-wrench" %}项目(Projects)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
