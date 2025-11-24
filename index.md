@@ -1,9 +1,13 @@
 ---
 ---
 
-# Yufei-Chen-TJ's Website
+# 实验室简介
 
-An engaging 1-3 sentence description of your lab.
+MedAI实验室...
+
+# About MedAI lab
+
+MedAI lab...
 
 {% include section.html %}
 
