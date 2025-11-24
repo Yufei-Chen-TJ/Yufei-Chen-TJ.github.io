@@ -2,7 +2,7 @@
 title: 教学(Courses)
 nav:
   order: 3
-  tooltip: 课程和教学成果(Courses and Teaching Achievements)
+  tooltip: 课程和教学成果(Courses and teaching achievements)
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}教学(Courses)
