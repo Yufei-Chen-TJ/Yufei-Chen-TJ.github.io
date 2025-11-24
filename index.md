@@ -1,9 +1,9 @@
 ---
 ---
 
-# 实验室简介
+# MedAI 实验室简介
 
-MedAI实验室...
+MedAI 实验室...
 
 # About MedAI lab
 
