@@ -1,7 +1,7 @@
 ---
 title: 人员
 nav:
-  order: 3
+  order: 4
   tooltip: 团队人员
 ---
 
