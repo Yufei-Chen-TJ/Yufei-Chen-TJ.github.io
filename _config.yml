@@ -12,8 +12,8 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Research
-    - name: Teaching
+    - name: Work
+    - name: Blog
 
 footer:
   show_powered_by: true
