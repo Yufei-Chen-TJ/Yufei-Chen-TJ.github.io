@@ -1,10 +1,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Bay Jekyll Theme
-description: Bay is a minimal Jekyll Theme.
+title: Yufei Chen
+description: Yufei Chen
 baseurl: "/bay"
-url: "https://eliottvincent.github.io"
+url: "https://yufei-chen-tj.github.io/"
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
