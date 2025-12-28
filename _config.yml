@@ -1,10 +1,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Bay Jekyll Theme
-description: Bay is a minimal Jekyll Theme.
+title: Chen Yufei
+description: Chen Yufei's homepage.
 baseurl: "/bay"
-url: "https://eliottvincent.github.io"
+url: "https://yufei-chen-tj.github.io"
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
@@ -12,38 +12,23 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
-    - name: Blog
+    - name: Research
+    - name: Teaching
+    - name: Activities
 
 footer:
   show_powered_by: true
   contact:
     - type: email
       name: Email
-      value: yourmail@domain.com
+      value: yufeichen@tongji.edu.cn
+    - type: address
+      value: "Room 437, Zhixin Building, Tongji University (Jiading Campus)"
+      link: "https://j.map.baidu.com/48/zdUJ"
     - type: wechat
-      value: YourWeChatUsername
+      value: Yufei TJ
       link: "#"
-  follow:
-    - type: twitter
-      name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - type: facebook
-      name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - type: linkedin
-      name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
-    - type: github
-      name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - type: dribbble
-      name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - type: rss
-      name: RSS
-      link: /feed.xml
+  
 
 # Build settings
 markdown: kramdown
