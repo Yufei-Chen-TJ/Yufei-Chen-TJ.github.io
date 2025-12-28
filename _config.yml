@@ -6,6 +6,7 @@ description: Chen Yufei's homepage.
 baseurl: ""
 url: "https://eliottvincent.github.io"
 og_image: /assets/img/profile-pic.jpg
+google_analytics: "UA-121636368-3"
 
 header:
   pages:
