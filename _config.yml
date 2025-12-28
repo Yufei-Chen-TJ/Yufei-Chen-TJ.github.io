@@ -4,9 +4,8 @@
 title: Chen Yufei
 description: Chen Yufei's homepage.
 baseurl: "/bay"
-url: "https://eliottvincent.github.io"
-og_image: /assets/img/profile-pic.jpg
-google_analytics: "UA-121636368-3"
+url: "https://yufei-chen-tj.github.io"
+og_image: /assets/img/profile-pic.png
 
 header:
   pages:
