@@ -9,22 +9,45 @@
       <div class="wrapper">
         <div class="work">
           <h1 class="page-heading">{{ page.title }}</h1>
-          {{ content }}
+
+          {% if page.pre_content %}
+            <div class="work-pre-content">
+              {{ page.pre_content }}
+            </div>
+          {% endif %}
 
           {% for item in page.items %}
-          <div class="work-item">
-            <img
-              src="{{ item.image.src | absolute_url }}"
-              alt="{{ item.image.alt }}"
-              class="work-bubble"
-            />
-            <span class="work-text">
-              <strong>{{ item.title }}</strong>
-              &mdash;
-              {{ item.description }}
-            </span>
-          </div>
+            <div class="work-item">
+              {% if item.video %}
+                <video autoplay loop muted class="work-bubble">
+                  <source src="{{ item.video.src | absolute_url }}" type="video/mp4">
+                  <source src="{{ item.video.src | absolute_url | replace: '.mp4', '.webm' }}" type="video/webm">
+                  <source src="{{ item.video.src | absolute_url | replace: '.mp4', '.ogv' }}" type="video/ogg">
+                  Your browser does not support the video tag.
+                </video>
+              {% endif %}
+              
+              {% if item.image %}
+                <img
+                  src="{{ item.image.src | absolute_url }}"
+                  alt="{{ item.image.alt }}"
+                  class="work-bubble"
+                />
+              {% endif %}
+              
+              <span class="work-text">
+                <span class="work-item-title">{{ item.title }}</span>
+                <span class="work-item-desc">{{ item.description }}</span>
+              </span>
+            </div>
           {% endfor %}
+
+          {% if page.post_content %}
+            <div class="work-post-content">
+              {{ page.post_content | markdownify }}
+            </div>
+          {% endif %}
+
         </div>
       </div>
     </div>
