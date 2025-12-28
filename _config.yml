@@ -6,7 +6,6 @@ description: Chen Yufei's homepage.
 baseurl: ""
 url: "https://yufei-chen-tj.github.io"
 og_image: /assets/img/profile-pic.png
-google_analytics: "UA-121636368-3"
 
 header:
   pages:
