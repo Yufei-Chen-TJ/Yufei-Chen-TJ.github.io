@@ -26,9 +26,9 @@
   margin-left: 0;     // 3. 确保左侧没有多余间距（如果之前有的话）
 
   @include mixins.media-query(variables.$on-mobile) {
-    float: none;
-    margin-bottom: 20px;
-    margin-right: 0px; // 手机端记得同步重置右边距
+    float: left;
+    margin-bottom: 10px;
+    margin-right: 20px; // 手机端记得同步重置右边距
   }
 }
 
