@@ -1,0 +1,184 @@
+@use "variables" as variables;
+@use "mixins" as mixins;
+
+* {
+  box-sizing: border-box;
+}
+
+/* 调整整个页面主体宽度 */
+.wrapper {
+  width: 100%;
+  max-width: 850px;  // 你可以调整到 1200px、1400px 或 1600px，根据屏幕需求
+  margin: 0 auto;     // 居中显示
+  padding: 0 20px;    // 两侧内边距，防止内容贴边
+
+  @include mixins.media-query(variables.$on-mobile) {
+    padding: 0 10px;  // 手机端缩小内边距
+  }
+}
+
+.profile-pic {
+  float: left;        // 1. 改为向左浮动
+  width: 130px;
+  border: #ccc 1px solid;
+  border-radius: 10px;
+  margin-right: 20px; // 2. 将左边距改为右边距，让文字不要贴着图片右侧
+  margin-left: 0;     // 3. 确保左侧没有多余间距（如果之前有的话）
+
+  @include mixins.media-query(variables.$on-mobile) {
+    float: none;
+    margin-bottom: 20px;
+    margin-right: 0px; // 手机端记得同步重置右边距
+  }
+}
+
+.footer-col {
+  font-size: 12px;
+  width: 100%;  // 确保占据父容器的全部宽度
+
+  h4 {
+    margin-bottom: 10px;  // 增加标题和下面内容之间的垂直间距
+    margin-top: 0;
+    line-height: 30px;
+  }
+
+  .social-links {
+    display: flex;        // 设置为 flex 布局，使元素水平排列
+    align-items: center;  // 垂直居中对齐
+    gap: 30px;            // 增加元素之间的水平间距
+    flex-wrap: wrap;      // 允许换行
+    justify-content: flex-start; // 确保元素从左开始排列
+
+    .social-link {
+      display: flex;
+      align-items: center;  // 确保图标和文本垂直居中对齐
+      line-height: 16px;
+      flex-basis: auto;  // 可以尝试 auto 或设定最小宽度 min-width 来避免元素过于拥挤
+      min-width: 190px;   // 为每个联系项设置最小宽度
+
+      @include mixins.media-query(variables.$on-mobile) {
+        min-width: 0; // 允许在手机端缩小
+        flex-basis: 100%; // 或者让它占满一行
+      }
+
+      img {
+        width: 16px;
+        height: 16px;
+      }
+
+      span,
+      a {
+        margin-left: 6px;   // 确保链接和图标之间有一定的空隙
+        word-break: break-all;
+      }
+    }
+  }
+
+  @include mixins.media-query(variables.$on-mobile) {
+    font-size: 14px;
+    line-height: 38px;
+    gap: 20px;   // 调整移动端元素间距
+  }
+}
+
+#wechat-widget {
+  display: none;
+  position: absolute;
+  background: #fff;
+  border: #ddd 1px solid;
+  box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.25);
+
+  padding: 24px;
+  text-align: center;
+
+  p {
+    font-size: 11px;
+    line-height: 16px;
+    font-family: Helvetica, sans-serif;
+    width: 170px;
+    margin: 0 auto;
+    margin-bottom: 14px;
+  }
+
+  #qr-code {
+    width: 160px;
+    height: 160px;
+    border: none;
+  }
+}
+
+.work-text {
+  display: block;
+}
+
+.work-item-title {
+  display: block;
+  color: #0056b3;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.4;
+  margin-bottom: 6px;
+}
+
+.work-item-desc {
+  display: block;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.work-bubble {
+  height: 150px;        /* 固定高度 */
+  width: auto;         /* 宽度按比例自适应 */
+  max-width: none;     /* 防止被 img { max-width:100% } 覆盖 */
+  object-fit: contain;
+  float: left;
+  padding-right: 10px;
+}
+
+/* 专门覆盖全局 img 规则 */
+img.work-bubble {
+  height: 150px;
+  width: auto;
+  max-width: none;
+
+  @include mixins.media-query(variables.$on-mobile) {
+    max-width: 50%; // 手机端必须限制，防止溢出
+    height: auto;   // 保持比例
+  }
+}
+
+/* 专门针对视频 */
+video.work-bubble {
+  width: 250px;     /* 宽度按比例自适应 */
+  height: auto;   /* 设置你想要的视频高度 */
+  max-width: none;
+  object-fit: contain;
+
+  @include mixins.media-query(variables.$on-mobile) {
+    max-width: 50%; // 手机端必须限制，防止溢出
+    height: auto;   // 保持比例
+  }
+}
+
+.course-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 12px;
+  font-size: 13px;
+  display: block;      // 将 table 转为 block 以便滚动
+  overflow-x: auto;    // 开启横向滚动
+  -webkit-overflow-scrolling: touch; // 让 iOS 滚动更顺滑
+}
+
+.course-table th,
+.course-table td {
+  border: 1px solid #ddd;
+  padding: 4px 8px;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.course-table thead {
+  background: #f5f7fa;
+  font-weight: 600;
+}

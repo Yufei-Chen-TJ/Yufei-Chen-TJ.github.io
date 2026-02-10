@@ -1,0 +1,59 @@
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+title: Yufei Chen
+description: Yufei Chen's personal website.
+baseurl: ""
+url: "https://yufei-chen-tj.github.io"
+og_image: /assets/img/profile-pic.jpg
+google_analytics: "UA-121636368-3"
+
+header:
+  pages:
+    - name: Home
+      slug: /
+    - name: Research
+      slug: /research
+    - name: Courses
+      slug: /courses
+    - name: Activities
+      slug: /activities
+    - name: Students
+      slug: /students
+
+footer:
+  show_powered_by: true
+  contact:
+    - type: email
+      name: Email
+      value: yufeichen@tongji.edu.cn
+    - type: address              # 之前可能是 wechat
+      value: "Room 437, Zhixin Building, Tongji University (Jiading Campus)"
+      link: "https://j.map.baidu.com/48/zdUJ" # 可选：点击跳转地图
+    - type: wechat
+      value: Yufei TJ
+      link: "#"
+  
+
+# Build settings
+markdown: kramdown
+sass:
+    style: :compressed
+plugins:
+  - jekyll-feed
+
+# Excluded items
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - feed.xml
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Used for defeating caching
+version: 1

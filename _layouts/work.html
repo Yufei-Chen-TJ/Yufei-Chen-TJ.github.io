@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="work">
+          <h1 class="page-heading">{{ page.title }}</h1>
+
+          <!-- 课程前的介绍内容 -->
+          {% if page.pre_content %}
+            <div class="work-pre-content">
+              {{ page.pre_content }}
+            </div>
+          {% endif %}
+
+          <!-- 课程列表 -->
+          {% for item in page.items %}
+            <div class="work-item">
+              {% if item.video %}
+                <video autoplay loop muted class="work-bubble">
+                  <source src="{{ item.video.src | absolute_url }}" type="video/mp4">
+                  <source src="{{ item.video.src | absolute_url | replace: '.mp4', '.webm' }}" type="video/webm">
+                  <source src="{{ item.video.src | absolute_url | replace: '.mp4', '.ogv' }}" type="video/ogg">
+                  Your browser does not support the video tag.
+                </video>
+              {% endif %}
+              
+              {% if item.image %}
+                <img
+                  src="{{ item.image.src | absolute_url }}"
+                  alt="{{ item.image.alt }}"
+                  class="work-bubble"
+                />
+              {% endif %}
+              
+              <span class="work-text">
+                {% if item.url %}
+                  <a href="{{ item.url }}" class="work-item-title">
+                    {{ item.title }}
+                  </a>
+                {% else %}
+                  <span class="work-item-title">{{ item.title }}</span>
+                {% endif %}
+                <span class="work-item-desc">{{ item.description }}</span>
+              </span>
+            </div>
+          {% endfor %}
+
+          <!-- 课程后的其他奖项 -->
+          {% if page.post_content %}
+            <div class="work-post-content">
+              {{ page.post_content | markdownify }}
+            </div>
+          {% endif %}
+
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+    {% include foot.html %}
+  </body>
+</html>
