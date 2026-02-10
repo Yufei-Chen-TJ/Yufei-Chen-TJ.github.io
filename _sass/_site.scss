@@ -27,8 +27,7 @@
 
   @include mixins.media-query(variables.$on-mobile) {
     float: left;
-    margin-bottom: 10px;
-    margin-right: 20px; // 手机端记得同步重置右边距
+    margin-right: 10px; // 手机端记得同步重置右边距
   }
 }
 
