@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Evidential Representation of Heterogeneous Information
+title: Evidential Feature Representation of Heterogeneous Information
 slug: /evidential_representation
 pre_content: |
   By integrating confidence modeling, evidence combination, and knowledge incorporation, this work provides robust and interpretable feature representations for handling heterogeneous and low-quality medical data, significantly improving the accuracy and safety of downstream tasks.

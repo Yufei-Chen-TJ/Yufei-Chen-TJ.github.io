@@ -7,7 +7,7 @@ pre_content: |
   <br />
   <br />
 items:
-  - title: Evidential Representation of Heterogeneous Information
+  - title: Evidential Feature Representation of Heterogeneous Information
     url: /evidential_representation
     image:
       src: /assets/img/research/Re1.jpg

@@ -11,7 +11,7 @@ Here are some of my graduate students.
 </div>
 
 ### PhD students
-Liu Wei, Li Linye, Fu Wei, Liu yuqi, Chen Zhichao, Chen Junliang, Liu Anmin.
+Liu Wei, Li Linye, Fu Wei, Liu Yuqi, Chen Zhichao, Chen Junliang, Liu Anmin.
 
 
 ### Master students
