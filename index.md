@@ -10,13 +10,13 @@ profile_picture:
 </p>
 
 <p>
-  Her main research interests lie in <strong>machine learning</strong> and <strong>medical data analysis</strong>, with a focus on multi-source medical image fusion and system decision risk in intelligent medical diagnosis. She has proposed multiple safe and trustworthy deep learning methods and translated them into practical applications. She has published over <strong>70 papers</strong> in top-tier journals and conferences, including <em>IEEE TMI, Medical Image Analysis (MIA), NeurIPS, CVPR</em>, and <em>MICCAI</em>, holds <strong>18 authorized invention patents</strong>, and has contributed as a core member to the development of three group standards.
+  Her main research interests lie in <strong>machine learning</strong> and <strong>medical data analysis</strong>, with a focus on multi-source medical image fusion and system decision risk in intelligent medical diagnosis. She has proposed multiple safe and trustworthy deep learning methods and translated them into practical applications. She has published over <strong>70 papers</strong> in top-tier journals and conferences, including <em>ASoC, AAAI, IEEE TMI, IEEE BIBM, IEEE TCSVT, MIA, ACM MM, NeurIPS, CVPR</em>, and <em>MICCAI</em>, holds <strong>19 authorized invention patents</strong>, and has contributed as a core member to the development of three group standards.
 </p>
 
 <p>
-  In recent years, She has led more than <strong>10 research projects</strong>, including National Key R&D Program projects and National Natural Science Foundation of China grants. As a principal contributor, She has received multiple honors, including the <strong>First Prize</strong> of the Shanghai Technological Invention Award. She has also won the <strong>Second Prize</strong> in the National Teaching Innovation Competition. Over the past five years, She has supervised students to win <strong>18 awards</strong> at international, national, and provincial levels.
+  In recent years, She has led more than <strong>10 research projects</strong>, including National Key Research and Development Program and National Natural Science Foundation of China grants. As a principal contributor, She has received multiple honors, including the <strong>First Prize</strong> of the Shanghai Technological Invention Award, the <strong>Third Prize</strong> of Shanghai Science and Technology Progress Award, and the <strong>First Prize</strong> of Ningbo Science and Technology Progress Award. She has also won the <strong>Second Prize</strong> in the National Teaching Innovation Competition and the <strong>Special Prize</strong> in the Shanghai Teaching Innovation Competition. Over the past five years, She has supervised students to win <strong>18 awards</strong> at international, national, and provincial levels, including <strong>6 first prizes</strong> or above.
 </p>
-  
+
 <p>
   In addition, she serves as <strong>Chair</strong> of MICCAI-CLIP, <strong>Education Chair</strong> of MICCAI-SIG-xMedIA, Vice Chair of MICS Webinar, a Committee Member of the National Technical Committee on Biomimetics Standardization, and an Executive Committee Member of the CCF-TC Computer Applications.
 </p>
