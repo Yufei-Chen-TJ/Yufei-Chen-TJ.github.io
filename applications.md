@@ -44,6 +44,14 @@ post_content: |
       <img src="/assets/img/research/re4/21.jpg">
       <img src="/assets/img/research/re4/22.jpg">
       <img src="/assets/img/research/re4/23.jpg">
+      <img src="/assets/img/research/re4/24.jpg">
+      <img src="/assets/img/research/re4/25.jpg">
+      <img src="/assets/img/research/re4/26.jpg">
+      <img src="/assets/img/research/re4/27.jpg">
+      <img src="/assets/img/research/re4/28.jpg">
+      <img src="/assets/img/research/re4/29.jpg">
+      <img src="/assets/img/research/re4/30.jpg">
+      <img src="/assets/img/research/re4/31.jpg">
     </div>
   </div>
 

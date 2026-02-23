@@ -96,6 +96,13 @@ post_content: |
       <img src="/assets/img/courses/14.jpg">
       <img src="/assets/img/courses/15.jpg">
       <img src="/assets/img/courses/16.jpg">
+      <img src="/assets/img/courses/17.jpg">
+      <img src="/assets/img/courses/18.jpg">
+      <img src="/assets/img/courses/19.jpg">
+      <img src="/assets/img/courses/20.jpg">
+      <img src="/assets/img/courses/21.jpg">
+      <img src="/assets/img/courses/22.jpg">
+      <img src="/assets/img/courses/23.jpg">
     </div>
   </div>
   ### Teaching Awards

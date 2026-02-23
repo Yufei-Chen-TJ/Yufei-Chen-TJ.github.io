@@ -30,6 +30,28 @@ Here are some photos of Yufei Chen and her students.
       <img src="/assets/img/students/20.jpg">
       <img src="/assets/img/students/21.jpg">
       <img src="/assets/img/students/22.jpg">
+      <img src="/assets/img/students/23.jpg">
+      <img src="/assets/img/students/24.jpg">
+      <img src="/assets/img/students/25.jpg">
+      <img src="/assets/img/students/26.jpg">
+      <img src="/assets/img/students/27.jpg">
+      <img src="/assets/img/students/28.jpg">
+      <img src="/assets/img/students/29.jpg">
+      <img src="/assets/img/students/30.jpg">
+      <img src="/assets/img/students/31.jpg">
+      <img src="/assets/img/students/32.jpg">
+      <img src="/assets/img/students/33.jpg">
+      <img src="/assets/img/students/34.jpg">
+      <img src="/assets/img/students/35.jpg">
+      <img src="/assets/img/students/36.jpg">
+      <img src="/assets/img/students/37.jpg">
+      <img src="/assets/img/students/38.jpg">
+      <img src="/assets/img/students/39.jpg">
+      <img src="/assets/img/students/40.jpg">
+      <img src="/assets/img/students/41.jpg">
+      <img src="/assets/img/students/42.jpg">
+      <img src="/assets/img/students/43.jpg">
+      <img src="/assets/img/students/44.jpg">
     </div>
   </div>
 
