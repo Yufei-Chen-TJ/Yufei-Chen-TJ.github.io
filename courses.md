@@ -99,26 +99,26 @@ post_content: |
     </div>
   </div>
   ### Teaching Awards
-  - Zhejiang Provincial Science and Technology Progress Award, Third Prize.
+  - Zhejiang Provincial Science and Technology Progress Award, Third Prize: *Development and Clinical Application of a Computer-Assisted Decision-Making System for Hepatobiliary and Pancreatic Surgery*.
   - 2023 Ningbo Municipal Science and Technology Progress Award, First Prize.
-  - 2026 CCF (China Computer Federation) Teaching Achievement Case Collection, Selected Case.
-  - 2025 National College Teachers’ Teaching Innovation Competition, Second Prize.
-  - 2025 Shanghai College Teachers’ Teaching Innovation Competition (Basic Courses Group), Special Prize.
-  - 2024 Shanghai First-Class Undergraduate Course.
-  - 2024 National University Programming Practice Training Case Competition, Special Prize.
-  - 2025 National Conference on Artificial Intelligence Education in Higher Education, Outstanding Paper First Prize.
-  - 2025 Tongji University “Thinking Cultivation” Model Case, Selected.
-  - 2024 Tongji University Undergraduate Teaching Achievement Award, Second Prize.
-  - 2024 Tongji University AI-Empowered Education and Teaching Innovation Model Case, Selected.
-  - 2025 19th “Challenge Cup” Shanghai Undergraduate Extracurricular Academic and Technological Works Competition, Special Prize.
-  - 2025 19th “Challenge Cup” National Undergraduate Extracurricular Academic and Technological Works Competition (Main Track), National Third Prize.
+  - 2026 CCF (China Computer Federation) Teaching Achievement Case Collection, Selected Case: *Foundation · Collaboration · Intelligent Innovation: Reconstruction and Practice of Programming Education for Interdisciplinary Top Innovative Talent Cultivation*.
+  - 2025 National College Teachers’ Teaching Innovation Competition, Second Prize: *Advanced Programming (Advanced Level)*.
+  - 2025 Shanghai College Teachers’ Teaching Innovation Competition (Basic Courses Group), Special Prize: *Advanced Programming (Advanced Level)*.
+  - 2024 Shanghai First-Class Undergraduate Course: *Advanced Programming (Guohao Engineering Elite Class)*.
+  - 2024 National University Programming Practice Training Case Competition, Special Prize: *Personalization-Driven Hierarchical and Progressive Program Development Training*.
+  - 2025 National Conference on Artificial Intelligence Education in Higher Education, Outstanding Paper First Prize: *Industry–Education Collaborative Programming Training to Address the Challenges of Large AI Models*.
+  - 2025 Tongji University “Thinking Cultivation” Model Case, Selected: *“Computational Thinking and Innovative Practice in Programming: From Problem to Solution”*.
+  - 2024 Tongji University Undergraduate Teaching Achievement Award, Second Prize: *Interdisciplinary Integration and Industry–Education Synergy: Construction of a Programming Curriculum Cluster for Multi-Domain Engineering Innovation Talent Cultivation*.
+  - 2024 Tongji University AI-Empowered Education and Teaching Innovation Model Case, Selected: *Intelligent Companion for Smart Programming: AI-Driven Educational Reform in Programming*.
+  - 2025 19th “Challenge Cup” Shanghai Undergraduate Extracurricular Academic and Technological Works Competition, Special Prize: *TJ-ToothAI—A Large-Model-Driven Multi-Domain Collaborative Oral Prevention and Diagnosis System*.
+  - 2025 19th “Challenge Cup” National Undergraduate Extracurricular Academic and Technological Works Competition (Main Track), National Third Prize: *TJ-ToothAI—A Large-Model-Driven Multi-Domain Collaborative Oral Prevention and Diagnosis System*.
   - 2024 Global Campus Artificial Intelligence Algorithm Elite Competition, National First Prize and National Second Prize.
-  - 2024 Shanghai Female College Students’ Innovation and Entrepreneurship Competition, Second Prize.
+  - 2024 Shanghai Female College Students’ Innovation and Entrepreneurship Competition, Second Prize: *TJ-ToothAI—A Large-Model-Driven Intelligent Oral Prevention and Diagnosis System*.
   - 2022 CCF-BDCI Big Data and Computing Intelligence Competition, National First Prize and National Second Prize.
   - 2024 CCF CAT National Intelligent Agent Development Competition, Best Creativity Award (All Tracks) and Second Prize (Social Welfare Empowerment Agent Track).
-  - ISICDM Challenge, First Prize in Glioma Segmentation (2023); Third Prize in Chest X-ray Pose Assessment (2023); First Prize in Lung Tissue Segmentation (2020); Second Prize in Low-Dose CT Image Quality Optimization (2020); Third Prize in MR Accelerated Imaging (2020); Third Prize in Liver and Tumor Segmentation (2019); Second Prize in Pancreatic CT Image Segmentation (2018).
+  - ISICDM Challenge, First Prize in *Glioma Segmentation (2023)*; Third Prize in *Chest X-ray Pose Assessment (2023)*; First Prize in *Lung Tissue Segmentation (2020)*; Second Prize in *Low-Dose CT Image Quality Optimization (2020)*; Third Prize in *MR Accelerated Imaging (2020)*; Third Prize in *Liver and Tumor Segmentation (2019)*; Second Prize in *Pancreatic CT Image Segmentation (2018)*.
   - 2024 Shanghai Computer Society, Outstanding Master’s Thesis Award.
-  - Tongji University Interdisciplinary Excellent Course: Exploring Medical Artificial Intelligence.
+  - Tongji University Interdisciplinary Excellent Course: *Exploring Medical Artificial Intelligence*.
   - 2020 Tongji University Young Teacher Lecture Competition Second Prize.
   - 2019 Tongji University School of Electronic and Information Engineering Young Teacher Lecture Competition First Prize.
 ---
