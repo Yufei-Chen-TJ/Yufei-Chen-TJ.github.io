@@ -4,7 +4,7 @@ title: Courses
 slug: /courses
 
 pre_content: |
-  The courses listed below highlight my teaching activities and contributions to undergraduate education.
+  The courses listed below highlight Yufei Chen's teaching activities and contributions to undergraduate education.
   <br />
   <table class="course-table">
   <thead>
@@ -77,21 +77,48 @@ items:
     description: This course is a <strong>premium interdisciplinary course at Tongji University</strong>, designed to introduce fundamental concepts, methodologies, and applications of <strong>medical artificial intelligence</strong>. It focuses on the integration of AI techniques with clinical practice, emphasizing real-world medical scenarios and interdisciplinary innovation. 
 
 post_content: |
-  ### Project Photos / Media Coverage
-  <div style="text-align:center; margin-bottom:12px;">
-    <img src="/assets/img/courses/courses.jpg" alt="Teaching Award" style="max-width:100%; height:auto; display:inline-block;">
+  ### Photo Gallery
+  <div class="slider">
+    <div class="slides">
+      <img src="/assets/img/courses/1.jpg">
+      <img src="/assets/img/courses/2.jpg">
+      <img src="/assets/img/courses/3.jpg">
+      <img src="/assets/img/courses/4.jpg">
+      <img src="/assets/img/courses/5.jpg">
+      <img src="/assets/img/courses/6.jpg">
+      <img src="/assets/img/courses/7.jpg">
+      <img src="/assets/img/courses/8.jpg">
+      <img src="/assets/img/courses/9.jpg">
+      <img src="/assets/img/courses/10.jpg">
+      <img src="/assets/img/courses/11.jpg">
+      <img src="/assets/img/courses/12.jpg">
+      <img src="/assets/img/courses/13.jpg">
+      <img src="/assets/img/courses/14.jpg">
+      <img src="/assets/img/courses/15.jpg">
+      <img src="/assets/img/courses/16.jpg">
+    </div>
   </div>
   ### Teaching Awards
-  - National University Teaching Innovation Competition, Second Prize.
-  - Shanghai University Teaching Innovation Competition, First Prize.
-  - National University Programming Training Case Competition, First Prize(all submitted cases ranked first).
-  - Tongji University Undergraduate Teaching Achievement Second Prize: "Interdisciplinary and Industry-Education Integration: Construction of a Programming Course Cluster for Multi-domain Innovative Talent Training in Engineering," responsible.
-  - Shanghai First-Class Undergraduate Course (Virtual Simulation - Biomedical Engineering): Task-based functional MRI virtual simulation experiment, participated.
-  - Shanghai First-Class Undergraduate Course (High-Quality Online Course): C/C++ Programming, participated.
-  - Shanghai Municipal Excellent Course: C/C++ Programming, participated.
-  - Tongji University Interdisciplinary Excellent Course: Exploring Medical Artificial Intelligence, responsible.
-  - 2024 National University Programming Training Case Special Prize: "Personalized Layered Progressive Programming Training."
-  - 2024 First Batch of AI-Enabled Education Teaching Innovation Typical Cases at Tongji University: "Zhiban Huicheng: AI Empowering Innovation in Programming Education."
+  - Zhejiang Provincial Science and Technology Progress Award, Third Prize.
+  - 2023 Ningbo Municipal Science and Technology Progress Award, First Prize.
+  - 2026 CCF (China Computer Federation) Teaching Achievement Case Collection, Selected Case.
+  - 2025 National College Teachers’ Teaching Innovation Competition, Second Prize.
+  - 2025 Shanghai College Teachers’ Teaching Innovation Competition (Basic Courses Group), Special Prize.
+  - 2024 Shanghai First-Class Undergraduate Course.
+  - 2024 National University Programming Practice Training Case Competition, Special Prize.
+  - 2025 National Conference on Artificial Intelligence Education in Higher Education, Outstanding Paper First Prize.
+  - 2025 Tongji University “Thinking Cultivation” Model Case, Selected.
+  - 2024 Tongji University Undergraduate Teaching Achievement Award, Second Prize.
+  - 2024 Tongji University AI-Empowered Education and Teaching Innovation Model Case, Selected.
+  - 2025 19th “Challenge Cup” Shanghai Undergraduate Extracurricular Academic and Technological Works Competition, Special Prize.
+  - 2025 19th “Challenge Cup” National Undergraduate Extracurricular Academic and Technological Works Competition (Main Track), National Third Prize.
+  - 2024 Global Campus Artificial Intelligence Algorithm Elite Competition, National First Prize and National Second Prize.
+  - 2024 Shanghai Female College Students’ Innovation and Entrepreneurship Competition, Second Prize.
+  - 2022 CCF-BDCI Big Data and Computing Intelligence Competition, National First Prize and National Second Prize.
+  - 2024 CCF CAT National Intelligent Agent Development Competition, Best Creativity Award (All Tracks) and Second Prize (Social Welfare Empowerment Agent Track).
+  - ISICDM Challenge, First Prize in Glioma Segmentation (2023); Third Prize in Chest X-ray Pose Assessment (2023); First Prize in Lung Tissue Segmentation (2020); Second Prize in Low-Dose CT Image Quality Optimization (2020); Third Prize in MR Accelerated Imaging (2020); Third Prize in Liver and Tumor Segmentation (2019); Second Prize in Pancreatic CT Image Segmentation (2018).
+  - 2024 Shanghai Computer Society, Outstanding Master’s Thesis Award.
+  - Tongji University Interdisciplinary Excellent Course: Exploring Medical Artificial Intelligence.
   - 2020 Tongji University Young Teacher Lecture Competition Second Prize.
   - 2019 Tongji University School of Electronic and Information Engineering Young Teacher Lecture Competition First Prize.
 ---
