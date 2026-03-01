@@ -8,7 +8,7 @@ slug: /students
 We warmly welcome students who are passionate about trustworthy medical AI, possess a solid foundation in programming and mathematics, and maintain a strong enthusiasm for life to join our MedAI team.
 </p>
 
-## Photo Gallery
+### Photo Gallery
 
   <div style="text-align:center; margin-bottom:12px;">
       <img src="/assets/img/students/students.jpg" alt="students" style="max-width:100%; height:auto; display:inline-block;">
