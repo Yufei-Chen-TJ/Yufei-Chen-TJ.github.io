@@ -206,8 +206,8 @@ video.work-bubble {
 /* 移动端 */
 @media (max-width: 768px) {
   .marquee-track img {
-    height: 120px;
-    margin-right: 12px;
+    height: 60px;
+    margin-right: 2px;
   }
 }
 
@@ -224,12 +224,12 @@ video.work-bubble {
 .student-grid {
   display: flex;
   flex-wrap: wrap;  /* 自动换行 */
-  gap: 20px;        /* 学生卡片间距 */
+  gap: 10px;        /* 学生卡片间距 */
   margin-bottom: 30px;
 }
 
 .student-card {
-  flex: 0 0 200px;  /* 每个卡片固定宽度，可根据需要调 */
+  flex: 0 0 185px;  /* 每个卡片固定宽度，可根据需要调 */
   background: #f9f9f9;
   border: 1px solid #ddd;
   border-radius: 8px;
@@ -238,6 +238,15 @@ video.work-bubble {
   box-shadow: 0 2px 5px rgba(0,0,0,0.05);
 }
 
+/* 移动端自适应 */
+@media (max-width: 768px) {
+  .student-card {
+    flex: 0 0 48%;        /* 屏幕较小宽度设为 48%，两列布局 */
+  }
+  .student-grid {
+    gap: 10px;            /* 缩小卡片间距 */
+  }
+}
 .student-name {
   display: block;
   font-weight: 700;
