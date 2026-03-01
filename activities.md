@@ -6,7 +6,7 @@ slug: /activities
 
 ## Academic Activities
 
-Here are some of Yufei Chen's academic activities in various domains.
+The following outlines Yufei Chen's academic and professional service contributions.
 
 ### Organization Services
 
@@ -14,10 +14,10 @@ Here are some of Yufei Chen's academic activities in various domains.
 - **MICCAI-CLIP** (Clinical image-based procedures), Chair.
 - **MICCAI-SIG-xMedIA**, Education Chair.
 - **MICS Webinar** (Medical Imaging Computing Seminar), Vice Chair.
-- **CCF-TC Computer Applications**, Executive Committee Member.
-- **Chinese Association for Artificial Intelligence**-Technical Committee on Smart Healthcare, Committee Member.
-- **SCTA** (Shanghai Computer Trade Association)-Technical Committee on Artificial Intelligence, Committee Member.
-- **BME Shanghai** (Society Of Biomedical Engineering)-Technical Committee on Artificial Intelligence, Committee Member.
+- **CCF** (China Computer Federation) Technical Committee on Computer Applications, Executive Committee Member.
+- **CAAI** (Chinese Association for Artificial Intelligence) Technical Committee on Smart Healthcare, Committee Member.
+- **CCF Shanghai** (Shanghai Computer Federation) Technical Committee on Artificial Intelligence, Committee Member.
+- **BME Shanghai** (Society of Biomedical Engineering) Technical Committee on Artificial Intelligence, Committee Member.
 
 ### Journal Services
 

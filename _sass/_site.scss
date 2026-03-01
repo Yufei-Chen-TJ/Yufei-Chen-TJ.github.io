@@ -182,28 +182,79 @@ video.work-bubble {
   font-weight: 600;
 }
 
-.slider {
+.marquee {
   width: 100%;
   overflow: hidden;
-  margin: 24px 0;
+  margin: 30px 0;
+  position: relative;
 }
 
-.slides {
+.marquee-track {
   display: flex;
-  transition: transform 0.6s ease-in-out;
+  width: max-content;
+  animation: scroll-left 150s linear infinite;
 }
 
-.slides img {
-  flex: 0 0 100%;
-  height: 350px;            /* PC 固定高度 */
-  width: auto;
+.marquee-track img {
+  height: 140px;       /* 固定高度 */
+  width: auto;         /* 原始比例 */
+  margin-right: 4px;  /* 图片间距 */
+  flex-shrink: 0;
   object-fit: contain;
-  display: block;
 }
 
-/* 移动端自适应 */
+/* 移动端 */
 @media (max-width: 768px) {
-  .slides img {
-    height: 180px;          /* 手机降低高度 */
+  .marquee-track img {
+    height: 120px;
+    margin-right: 12px;
   }
+}
+
+/* 核心动画 */
+@keyframes scroll-left {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.student-grid {
+  display: flex;
+  flex-wrap: wrap;  /* 自动换行 */
+  gap: 20px;        /* 学生卡片间距 */
+  margin-bottom: 30px;
+}
+
+.student-card {
+  flex: 0 0 200px;  /* 每个卡片固定宽度，可根据需要调 */
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 12px;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.student-name {
+  display: block;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.student-name a {
+  text-decoration: none;
+  color: #0056b3;
+}
+
+.student-name a:hover {
+  text-decoration: underline;
+}
+
+.student-note {
+  font-size: 13px;
+  color: #555;
+  line-height: 1.4;
 }

@@ -4,10 +4,18 @@ title: Students
 slug: /students
 ---
 
+<p>
+We warmly welcome students who are passionate about trustworthy medical AI, possess a solid foundation in programming and mathematics, and maintain a strong enthusiasm for life to join our MedAI team.
+</p>
+
 ## Photo Gallery
-Here are some photos of Yufei Chen and her students.
-  <div class="slider">
-    <div class="slides">
+
+  <div style="text-align:center; margin-bottom:12px;">
+      <img src="/assets/img/students/students.jpg" alt="students" style="max-width:100%; height:auto; display:inline-block;">
+  </div>
+
+  <div class="marquee">
+    <div class="marquee-track">
       <img src="/assets/img/students/1.jpg">
       <img src="/assets/img/students/2.jpg">
       <img src="/assets/img/students/3.jpg">
@@ -47,12 +55,81 @@ Here are some photos of Yufei Chen and her students.
       <img src="/assets/img/students/37.jpg">
       <img src="/assets/img/students/38.jpg">
       <img src="/assets/img/students/39.jpg">
-      <img src="/assets/img/students/40.jpg">
-      <img src="/assets/img/students/41.jpg">
-      <img src="/assets/img/students/42.jpg">
-      <img src="/assets/img/students/43.jpg">
-      <img src="/assets/img/students/44.jpg">
     </div>
   </div>
 
+<h3>PhD Students</h3>
+<div class="student-grid">
+  <div class="student-card">
+    <span class="student-name">Wei Liu</span>
+    <p class="student-note">Excited about AI in medical imaging.</p>
+  </div>
+  <div class="student-card">
+    <span class="student-name">Yuqi Liu</span>
+    <p class="student-note">Researching deep learning for healthcare.</p>
+  </div>
+  <div class="student-card">
+    <span class="student-name">Wei Fu</span>
+    <p class="student-note">Interested in robotics and AI.</p>
+  </div>
+  <div class="student-card">
+    <span class="student-name">Linye Li</span>
+    <p class="student-note">Excited about AI in medical imaging.</p>
+  </div>
+  <div class="student-card">
+    <span class="student-name">Zhichao Chen</span>
+    <p class="student-note">Researching deep learning for healthcare.</p>
+  </div>
+  <div class="student-card">
+    <span class="student-name">Junliang Chen</span>
+    <p class="student-note">Interested in robotics and AI.</p>
+  </div>
+  <div class="student-card">
+    <span class="student-name">Anmin Liu</span>
+    <p class="student-note">Interested in robotics and AI.</p>
+  </div>
+</div>
 
+<h3>Master Students</h3>
+<div class="student-grid">
+  <div class="student-card">
+    <span class="student-name">Jingen Qu</span>
+    <p class="student-note">Loves data visualization.</p>
+  </div>
+  <div class="student-card">
+    <span class="student-name">Xinghao Wen</span>
+    <p class="student-note">Enjoys exploring computational biology.</p>
+  </div>
+    <div class="student-card">
+    <span class="student-name">Kefan Zhou</span>
+    <p class="student-note">Loves data visualization.</p>
+  </div>
+  <div class="student-card">
+    <span class="student-name">Yina Li</span>
+    <p class="student-note">Enjoys exploring computational biology.</p>
+  </div>
+    <div class="student-card">
+    <span class="student-name">Zhengqing Cao</span>
+    <p class="student-note">Loves data visualization.</p>
+  </div>
+  <div class="student-card">
+    <span class="student-name">Xiaolong Shen</span>
+    <p class="student-note">Enjoys exploring computational biology.</p>
+  </div>
+    <div class="student-card">
+    <span class="student-name">Zihan Zhang</span>
+    <p class="student-note">Loves data visualization.</p>
+  </div>
+  <div class="student-card">
+    <span class="student-name">Yiying Che</span>
+    <p class="student-note">Enjoys exploring computational biology.</p>
+  </div>
+    <div class="student-card">
+    <span class="student-name">Hongzhi Yue</span>
+    <p class="student-note">Loves data visualization.</p>
+  </div>
+  <div class="student-card">
+    <span class="student-name">Yichen Song</span>
+    <p class="student-note">Enjoys exploring computational biology.</p>
+  </div>
+</div>

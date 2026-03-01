@@ -67,47 +67,14 @@ $("a#wechat-link").on("mouseleave", function(event) {
 });
 
 /**
- * Seamless infinite slider
+ * Continuous seamless marquee
  */
 $(document).ready(function () {
 
-  const $slides = $(".slides");
-  if ($slides.length === 0) return;
+  const $track = $(".marquee-track");
+  if ($track.length === 0) return;
 
-  const $images = $slides.children();
-  const total = $images.length;
-
-  if (total <= 1) return;
-
-  // 克隆第一张
-  const $firstClone = $images.first().clone();
-  $slides.append($firstClone);
-
-  let index = 0;
-  let isTransitioning = false;
-
-  function nextSlide() {
-    if (isTransitioning) return;
-
-    index++;
-    isTransitioning = true;
-
-    $slides.css("transition", "transform 0.6s ease-in-out");
-    $slides.css("transform", `translateX(-${index * 100}%)`);
-  }
-
-  $slides.on("transitionend", function () {
-
-    // 如果到了克隆图
-    if (index === total) {
-      $slides.css("transition", "none");
-      $slides.css("transform", "translateX(0%)");
-      index = 0;
-    }
-
-    isTransitioning = false;
-  });
-
-  setInterval(nextSlide, 3000);
+  // 克隆一份内容
+  $track.append($track.html());
 
 });
