@@ -10,3 +10,29 @@
   width: 120px;
   height: 120px;
 }
+.work-item-award {
+  margin-bottom: 6px;
+}
+
+.award-line {
+  display: inline-block;
+  background: rgba(230, 184, 0, 0.12);
+  color: #B8860B;
+  font-weight: 600;
+  padding: 2px 8px;
+  margin: 2px 4px 2px 0;
+  border-radius: 4px;
+  font-size: 13px;
+}
+
+.hurl-line {
+  display: inline-block;
+  background: #f0f6ff;  /* 浅蓝背景 */
+  color: #0056B3;       /* 蓝色文字 */
+  font-weight: 600;
+  padding: 2px 8px;
+  margin: 2px 4px 2px 0;
+  border-radius: 4px;
+  font-size: 13px;
+  text-decoration: none;
+}

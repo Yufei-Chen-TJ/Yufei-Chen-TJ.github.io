@@ -45,9 +45,31 @@
                 {% else %}
                   <span class="work-item-title">{{ item.title }}</span>
                 {% endif %}
-                <span class="work-item-desc">{{ item.description }}</span>
+                {% if item.award %}
+                  <div class="work-item-award">
+                    {% for a in item.award %}
+                      <div class="award-line">{{ a }}</div>
+                    {% endfor %}
+                  </div>
+                {% endif %}
+                {% if item.hurl %}
+                  <div class="work-item-hurl">
+                    <a href="{{ item.hurl }}" target="_blank" class="hurl-line">{{ item.hurl }}</a>
+                  </div>
+                {% endif %}
+                <span class="work-item-desc">
+                  {{ item.description }}
+                </span>
               </span>
             </div>
+
+            <!-- mid_content 显示控制 -->
+            {% if page.mid_content and forloop.index == page.mid_content_position %}
+              <div class="work-mid-content">
+                {{ page.mid_content | markdownify }}
+              </div>
+            {% endif %}
+
           {% endfor %}
 
           <!-- 课程后的其他奖项 -->

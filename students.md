@@ -14,8 +14,8 @@ We warmly welcome students who are passionate about trustworthy medical AI, poss
       <img src="/assets/img/students/students.jpg" alt="students" style="max-width:100%; height:auto; display:inline-block;">
   </div>
 
-  <div class="marquee">
-    <div class="marquee-track">
+  <div class="marquee marquee">
+    <div class="marquee-track" id="marquee-students">
       <img src="/assets/img/students/1.jpg">
       <img src="/assets/img/students/2.jpg">
       <img src="/assets/img/students/3.jpg">
