@@ -20,13 +20,13 @@ pre_content: |
       <td rowspan="1"><strong>Fundamental</strong></td>
       <td>Advanced Programming Languages</td>
       <td>Guohao Engineering Elite Class</td>
-      <td><strong>"AI+X"</strong> fundamental computing skills development for elite engineering talents</td>
+      <td><strong>“AI+X”</strong> fundamental computing skills development for elite engineering talents</td>
     </tr>
     <tr>
       <td rowspan="3"><strong>Interdisciplinary</strong></td>
       <td>Programming (Basic Project I)</td>
       <td>Guohao Future Technology Class</td>
-      <td rowspan="3"><strong>"AI+X"</strong> interdisciplinary project-based training for real-world technology application</td>
+      <td rowspan="3"><strong>“AI+X”</strong> interdisciplinary project-based training for real-world technology application</td>
     </tr>
     <tr>
       <td>Fundamentals and Applications of Intelligent Medicine</td>
@@ -40,7 +40,7 @@ pre_content: |
       <td rowspan="3"><strong>Frontier</strong></td>
       <td>Data Mining</td>
       <td>Computer Science / Electronic Engineering</td>
-      <td rowspan="3"><strong>"AI+X"</strong> technical foundation building for timely integration of cutting-edge research into teaching</td>
+      <td rowspan="3"><strong>“AI+X”</strong> technical foundation building for timely integration of cutting-edge research into teaching</td>
     </tr>
     <tr>
       <td>Artificial Intelligence</td>
