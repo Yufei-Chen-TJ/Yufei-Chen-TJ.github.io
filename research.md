@@ -3,7 +3,7 @@ layout: work
 title: Research
 slug: /research
 pre_content: |
-  The following summarizes Yufei Chen's research activities and representative outcomes in several research domains.
+  The following summarizes MedAI’s research activities and representative outcomes in several research domains.
   <br />
   <br />
 items:
@@ -12,26 +12,86 @@ items:
     image:
       src: /assets/img/research/Re1.jpg
       alt: evidential_representation
-    description: This research direction focuses on <strong>confidence modeling, evidence combination, and knowledge integration</strong> for heterogeneous multimodal data, with representative publications in <strong>ASoC, AAAI, IEEE TMI, and IEEE BIBM</strong>.
+    description: Focuses on <strong>confidence modeling, evidence combination, and knowledge integration</strong> for heterogeneous multimodal data, with representative publications in <strong>TMI, NeurIPS, ICLR, AAAI, BIBM, etc.</strong>
   - title: Evidence-driven Multidimensional Uncertainty Disentanglement
     url: /evidence-driven
     image:
       src: /assets/img/research/Re2.jpg
       alt: Re2
-    description: This line of work studies <strong>conflict, ambiguity, and unknownness quantification</strong> through evidential learning frameworks, with key results published in <strong>MICCAI, NeurIPS, and IEEE TMI</strong>.
+    description: Focuses on <strong>conflict, ambiguity, and unknownness quantification</strong> through evidential learning frameworks, with representative publications in <strong>TMI, MIA, NeurIPS, AAAI, MICCAI, etc.</strong>
   - title: Statistically Calibrated Decision Risk Optimization
     url: /statistically_calibrated
     image:
       src: /assets/img/research/Re3.jpg
       alt: Re3
-    description: This research focuses on <strong>conformal prediction and multiple hypothesis testing</strong> for risk-aware decision-making, with representative publications in <strong>ACM MM, AAAI, IEEE TCSVT, and CVPR</strong>.
-  - title: Clinical AI Systems
-    url: /applications
+    description: Focuses on <strong>conformal prediction and multiple hypothesis testing</strong> for risk-aware decision-making, with representative publications in <strong>TCSVT, MIA, CVPR, ACM MM, AAAI, etc.</strong>
+  - title: Pancreatic Tumor-Assisted Diagnosis System
     image:
-      src: /assets/img/research/Re4.jpg
-      alt: Re4
-    description: This research direction focuses on the development of clinical AI systems, including a <strong>pancreatic tumor-assisted diagnosis system</strong> and an <strong>endodontic diagnosis support system (TJ-ToothAI)</strong>, enabling real-world deployment of trustworthy intelligent medical solutions.
-post_content: |
+      src: /assets/img/research/re4/pancreatic.gif
+      alt: pancreatic
+    award:
+      - Prof. Chao Ma, Changhai University (Co.)
+      - Prof. Siming Zheng, The First Affiliated Hospital of Ningbo University (Co.)
+    description: Focuses on providing clinical decision support for pancreatic tumors, integrating AI models with multi-source medical imaging to enhance diagnostic accuracy and safety.
+  - title: Endodontic Diagnosis Support System (TJ-ToothAI)
+    image:
+      src: /assets/img/research/re4/TJ-ToothAI.gif
+      alt: TJ-ToothAI
+    award:
+      - Prof. Qi Zhang, The Affiliated Stomatology Hospital of Tongji University (Co.)
+    hurl: http://tj-toothai.cn/
+    description: Focuses on intelligent diagnosis and treatment support in dentistry, combining AI-driven analysis of dental and pulp images to assist clinicians in real-world endodontic workflows.
+mid_content:  |
   **[Full list of publications in Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=AW7FP3UAAAAJ)**
+  <br />
+  <br />
+  ## Clinical AI Systems (Selected Cases)
+  Focuses on the development of clinical AI systems, including a pancreatic tumor-assisted diagnosis system and an endodontic diagnosis support system (TJ-ToothAI), enabling real-world deployment of trustworthy intelligent medical solutions.
+  <br />
+  <br />
+mid_content_position: 3
+post_content: |
+   ### Photo Gallery
+    <div class="marquee">
+      <div class="marquee-track" id="marquee-research">
+        <img src="/assets/img/research/re4/1.jpg">
+        <img src="/assets/img/research/re4/2.jpg">
+        <img src="/assets/img/research/re4/3.jpg">
+        <img src="/assets/img/research/re4/4.jpg">
+        <img src="/assets/img/research/re4/5.jpg">
+        <img src="/assets/img/research/re4/6.jpg">
+        <img src="/assets/img/research/re4/7.jpg">
+        <img src="/assets/img/research/re4/8.jpg">
+        <img src="/assets/img/research/re4/9.jpg">
+        <img src="/assets/img/research/re4/10.jpg">
+        <img src="/assets/img/research/re4/11.jpg">
+        <img src="/assets/img/research/re4/12.jpg">
+        <img src="/assets/img/research/re4/13.jpg">
+        <img src="/assets/img/research/re4/14.jpg">
+        <img src="/assets/img/research/re4/15.jpg">
+        <img src="/assets/img/research/re4/16.jpg">
+        <img src="/assets/img/research/re4/17.jpg">
+        <img src="/assets/img/research/re4/18.jpg">
+        <img src="/assets/img/research/re4/19.jpg">
+        <img src="/assets/img/research/re4/20.jpg">
+        <img src="/assets/img/research/re4/21.jpg">
+        <img src="/assets/img/research/re4/22.jpg">
+        <img src="/assets/img/research/re4/23.jpg">
+        <img src="/assets/img/research/re4/24.jpg">
+        <img src="/assets/img/research/re4/25.jpg">
+        <img src="/assets/img/research/re4/26.jpg">
+        <img src="/assets/img/research/re4/27.jpg">
+        <img src="/assets/img/research/re4/28.jpg">
+        <img src="/assets/img/research/re4/29.jpg">
+        <img src="/assets/img/research/re4/30.jpg">
+      </div>
+    </div>
+
+   ### Media Coverage
+    - [AI赋能口腔医疗服务，同济师生团队让健康更有温度！ - 人民日报](https://www.peopleapp.com/rmharticle/30050248011)
+    - [硬核！同济师生研发“AI牙慧诊”系统 - 中国青年报](https://s.cyol.com/articles/2025-09/12/content_v6zpBYI4.html?gid=4LkvKv17)
+    - [同济大学团队开发“AI牙慧诊”，患者整体就诊时间缩短58% - 文汇报](https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=981428)
+    - [【校地合作】科技赋能云龙 智慧共建乡村——同济大学计算机科学与技术学院暑期实践团赴云龙开展实践活动 - 云龙县宣传部](https://mp.weixin.qq.com/s/Y5IM1RzKkGjqXxv6d_Myaw)
+    - [AI看牙秒出报告！同济大学新成果亮相嘉定 - 上海嘉定融媒体](https://mp.weixin.qq.com/s/8u3SxojGNGTuZFiAeMuALA)
 ---
 

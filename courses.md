@@ -4,7 +4,7 @@ title: Courses
 slug: /courses
 
 pre_content: |
-  The courses listed below highlight Yufei Chen's teaching activities to undergraduate and graduate students.
+  The courses listed below highlight Yufei Chen’s teaching activities to undergraduate and graduate students.
   <br />
   <table class="course-table">
   <thead>

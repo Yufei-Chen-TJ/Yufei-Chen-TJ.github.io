@@ -20,15 +20,6 @@
           <!-- 课程列表 -->
           {% for item in page.items %}
             <div class="work-item">
-              {% if item.video %}
-                <video autoplay loop muted class="work-bubble">
-                  <source src="{{ item.video.src | absolute_url }}" type="video/mp4">
-                  <source src="{{ item.video.src | absolute_url | replace: '.mp4', '.webm' }}" type="video/webm">
-                  <source src="{{ item.video.src | absolute_url | replace: '.mp4', '.ogv' }}" type="video/ogg">
-                  Your browser does not support the video tag.
-                </video>
-              {% endif %}
-              
               {% if item.image %}
                 <img
                   src="{{ item.image.src | absolute_url }}"

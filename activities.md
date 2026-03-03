@@ -6,7 +6,7 @@ slug: /activities
 
 ## Academic Activities
 
-The following outlines Yufei Chen's academic and professional service contributions.
+The following outlines Yufei Chen’s academic and professional service contributions.
 
 ### Organization Services
 
