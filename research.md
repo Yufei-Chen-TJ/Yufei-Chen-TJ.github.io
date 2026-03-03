@@ -12,19 +12,19 @@ items:
     image:
       src: /assets/img/research/Re1.jpg
       alt: evidential_representation
-    description: Focuses on <strong>confidence modeling, evidence combination, and knowledge integration</strong> for heterogeneous multimodal data, with representative publications in <strong>TMI, NeurIPS, ICLR, AAAI, BIBM, etc.</strong>
+    description: Focuses on <strong>confidence modeling, evidence combination, and knowledge integration</strong> for heterogeneous multimodal data, with representative publications in <strong>TMI, NeurIPS, ICLR, AAAI, BIBM</strong>, etc.
   - title: Evidence-driven Multidimensional Uncertainty Disentanglement
     url: /evidence-driven
     image:
       src: /assets/img/research/Re2.jpg
       alt: Re2
-    description: Focuses on <strong>conflict, ambiguity, and unknownness quantification</strong> through evidential learning frameworks, with representative publications in <strong>TMI, MIA, NeurIPS, AAAI, MICCAI, etc.</strong>
+    description: Focuses on <strong>conflict, ambiguity, and unknownness quantification</strong> through evidential learning frameworks, with representative publications in <strong>TMI, MIA, NeurIPS, AAAI, MICCAI</strong>, etc.
   - title: Statistically Calibrated Decision Risk Optimization
     url: /statistically_calibrated
     image:
       src: /assets/img/research/Re3.jpg
       alt: Re3
-    description: Focuses on <strong>conformal prediction and multiple hypothesis testing</strong> for risk-aware decision-making, with representative publications in <strong>TCSVT, MIA, CVPR, ACM MM, AAAI, etc.</strong>
+    description: Focuses on <strong>conformal prediction and multiple hypothesis testing</strong> for risk-aware decision-making, with representative publications in <strong>TCSVT, MIA, CVPR, ACM MM, AAAI</strong>, etc.
   - title: Pancreatic Tumor-Assisted Diagnosis System
     image:
       src: /assets/img/research/re4/pancreatic.gif
