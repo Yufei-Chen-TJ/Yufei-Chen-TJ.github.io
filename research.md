@@ -30,7 +30,7 @@ items:
       src: /assets/img/research/re4/pancreatic.gif
       alt: pancreatic
     award:
-      - Prof. Chao Ma, Changhai University (Co.)
+      - Prof. Chao Ma, Changhai Hospital (Co.)
       - Prof. Siming Zheng, The First Affiliated Hospital of Ningbo University (Co.)
     description: Focuses on providing clinical decision support for pancreatic tumors, integrating AI models with multi-source medical imaging to enhance diagnostic accuracy and safety.
   - title: Endodontic Diagnosis Support System (TJ-ToothAI)

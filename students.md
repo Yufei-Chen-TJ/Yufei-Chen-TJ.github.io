@@ -88,10 +88,54 @@ We warmly welcome students who are passionate about trustworthy medical AI, poss
     <span class="student-name">Anmin Liu</span>
     <p class="student-note">Interested in robotics and AI.</p>
   </div>
+  <div class="student-card">
+    <span class="student-name">Qunjie Chen</span>
+    <p class="student-note">Interested in robotics and AI.</p>
+  </div>
 </div>
 
 <h3>Master Students</h3>
 <div class="student-grid">
+  <div class="student-card">
+    <span class="student-name">Haiyan Zheng</span>
+    <p class="student-note">Loves data visualization.</p>
+  </div>
+  <div class="student-card">
+    <span class="student-name">Xiaoyu Yang</span>
+    <p class="student-note">Enjoys exploring computational biology.</p>
+  </div>
+    <div class="student-card">
+    <span class="student-name">Shaoxun Xu</span>
+    <p class="student-note">Loves data visualization.</p>
+  </div>
+  <div class="student-card">
+    <span class="student-name">Genqiang Ren</span>
+    <p class="student-note">Enjoys exploring computational biology.</p>
+  </div>
+    <div class="student-card">
+    <span class="student-name">Qian Wu</span>
+    <p class="student-note">Loves data visualization.</p>
+  </div>
+  <div class="student-card">
+    <span class="student-name">Wei Fu</span>
+    <p class="student-note">Enjoys exploring computational biology.</p>
+  </div>
+    <div class="student-card">
+    <span class="student-name">Jiayun Jin</span>
+    <p class="student-note">Loves data visualization.</p>
+  </div>
+  <div class="student-card">
+    <span class="student-name">Shichen Sun</span>
+    <p class="student-note">Enjoys exploring computational biology.</p>
+  </div>
+    <div class="student-card">
+    <span class="student-name">Qiguang Huang</span>
+    <p class="student-note">Loves data visualization.</p>
+  </div>
+  <div class="student-card">
+    <span class="student-name">Haoxuan Shan</span>
+    <p class="student-note">Enjoys exploring computational biology.</p>
+  </div>
   <div class="student-card">
     <span class="student-name">Jingen Qu</span>
     <p class="student-note">Loves data visualization.</p>
@@ -116,7 +160,11 @@ We warmly welcome students who are passionate about trustworthy medical AI, poss
     <span class="student-name">Xiaolong Shen</span>
     <p class="student-note">Enjoys exploring computational biology.</p>
   </div>
-    <div class="student-card">
+  <div class="student-card">
+    <span class="student-name">Anmin Liu</span>
+    <p class="student-note">Enjoys exploring computational biology.</p>
+  </div>
+  <div class="student-card">
     <span class="student-name">Zihan Zhang</span>
     <p class="student-note">Loves data visualization.</p>
   </div>
@@ -130,6 +178,22 @@ We warmly welcome students who are passionate about trustworthy medical AI, poss
   </div>
   <div class="student-card">
     <span class="student-name">Yichen Song</span>
+    <p class="student-note">Enjoys exploring computational biology.</p>
+  </div>
+  <div class="student-card">
+    <span class="student-name">Shengkun Zhang</span>
+    <p class="student-note">Loves data visualization.</p>
+  </div>
+  <div class="student-card">
+    <span class="student-name">Hailu Li</span>
+    <p class="student-note">Enjoys exploring computational biology.</p>
+  </div>
+    <div class="student-card">
+    <span class="student-name">Tao Liu</span>
+    <p class="student-note">Loves data visualization.</p>
+  </div>
+  <div class="student-card">
+    <span class="student-name">Yuyan Chen</span>
     <p class="student-note">Enjoys exploring computational biology.</p>
   </div>
 </div>

@@ -74,7 +74,7 @@ items:
       alt: DataMining
     award:
       - Core Course of the National “AI 101” Initiative in China
-      - Co-author of the textbook “Pattern Recognition and Data Mining”
+      - Co-editor of the textbook “Pattern Recognition and Data Mining”
     description: Offered as an <strong>undergraduate degree course</strong>, it focuses on fundamental theories and methods of data mining. All enrolled students have participated in international- and national-level artificial intelligence competitions.
     
     
