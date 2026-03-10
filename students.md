@@ -149,7 +149,7 @@ We warmly welcome students who are passionate about trustworthy medical AI, poss
     <p class="student-note">Loves data visualization.</p>
   </div>
   <div class="student-card">
-    <span class="student-name">Xinghao Wen</span>
+    <span class="student-name">Xinhao Wen</span>
     <p class="student-note">Enjoys exploring computational biology.</p>
   </div>
     <div class="student-card">
