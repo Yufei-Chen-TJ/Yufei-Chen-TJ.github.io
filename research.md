@@ -81,9 +81,6 @@ post_content: |
         <img src="/assets/img/research/re4/25.jpg">
         <img src="/assets/img/research/re4/26.jpg">
         <img src="/assets/img/research/re4/27.jpg">
-        <img src="/assets/img/research/re4/28.jpg">
-        <img src="/assets/img/research/re4/29.jpg">
-        <img src="/assets/img/research/re4/30.jpg">
       </div>
     </div>
 

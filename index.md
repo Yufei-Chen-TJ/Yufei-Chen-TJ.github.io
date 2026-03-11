@@ -10,7 +10,7 @@ profile_picture:
 </p>
 
 <p>
-  Her main research interests lie in <strong>machine learning</strong> and <strong>medical data analysis</strong>, with a focus on multi-source medical image fusion and decision-making risk in intelligent medical diagnosis systems. She has proposed multiple safe and trustworthy deep learning methods and translated them into real-world clinical applications. She has published <strong>100+ papers</strong> in top-tier journals and conferences, including TMI, TNNLS, TCSVT, MIA, NeurIPS, CVPR, ICLR, AAAI, ACM MM, MICCAI, and BIBM, among others. She holds <strong>19 granted invention patents</strong>, and has contributed as a core member to the development of <strong>three group standards</strong>.
+  Her main research interests lie in <strong>machine learning</strong> and <strong>medical data analysis</strong>, with a focus on multi-source medical image fusion and decision-making risk in intelligent medical diagnosis systems. She has proposed multiple safe and trustworthy deep learning methods and translated them into real-world clinical applications. She has published <strong>100+ papers</strong> in top-tier journals and conferences, including TMI, TNNLS, TCSVT, MIA, NeurIPS, CVPR, ICLR, AAAI, ACM MM, MICCAI, and BIBM, etc. She holds <strong>19 granted invention patents</strong>, and has contributed as a core member to the development of <strong>three group standards</strong>.
 </p>
 
 <p>
@@ -18,5 +18,5 @@ profile_picture:
 </p>
 
 <p>
-  In addition, she serves as <strong>Chair</strong> of MICCAI-CLIP, <strong>Education Chair</strong> of MICCAI-SIG-xMedIA, Committee Member of the National Technical Committee on Biomimetics Standardization, Vice Chair of MICS Webinar, and Executive Committee Member of the CCF Technical Committee on Computer Applications.
+  In addition, she serves as <strong>Chair</strong> of MICCAI-CLIP, <strong>Education Chair</strong> of MICCAI-SIG-xMedIA, Committee Member of the National Technical Committee on Biomimetics Standardization, Vice Chair of MICS Webinar, and Executive Committee Member of the CCF Technical Committee on Computer Applications, etc.
 </p>

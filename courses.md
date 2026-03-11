@@ -18,7 +18,7 @@ pre_content: |
   <tbody>
     <tr>
       <td rowspan="1"><strong>Fundamental</strong></td>
-      <td>Advanced Programming Languages</td>
+      <td>Advanced Language Programming Design</td>
       <td>Guohao Engineering Elite Class</td>
       <td><strong>“AI+X”</strong> fundamental computing skills development for elite engineering talents</td>
     </tr>
@@ -57,7 +57,7 @@ pre_content: |
   <br />
 
 items:
-  - title: Advanced Language Programming Design <br>(Guohao Engineering Elite Class)
+  - title: Advanced Language Programming Design<br>(Guohao Engineering Elite Class)
     image:
       src: /assets/img/courses/AdvancedProgramming.jpg
       alt: AdvancedProgramming
@@ -110,13 +110,12 @@ post_content: |
       <img src="/assets/img/courses/12.jpg">
       <img src="/assets/img/courses/13.jpg">
       <img src="/assets/img/courses/14.jpg">
-      <img src="/assets/img/courses/15.jpg">
     </div>
   </div>
   ### Teaching Awards
   - <strong>National College Teachers’ Teaching Innovation Competition</strong>, <strong>Second Prize</strong>: *Advanced Language Programming Design*, 2025.
   - <strong>Shanghai College Teachers’ Teaching Innovation Competition (Basic Courses Group)</strong>, <strong>Special Prize</strong>: *Advanced Language Programming Design*, 2025.
-  - <strong>CCF (China Computer Federation) Teaching Achievement</strong>: *Foundation · Collaboration · Intelligent Innovation: Reconstruction and Practice of Programming Education for Interdisciplinary Top Innovative Talent Cultivation*, 2026.
+  - <strong>CCF (China Computer Federation) Teaching Achievement</strong>: *Foundation · Collaboration · Innovation: Reconstruction and Practice of Programming Education for Interdisciplinary Top Innovative Talent Cultivation*, 2026.
   - Young Teacher Lecture Competition of Tongji University, <strong>Second Prize</strong>, 2020.
   - Young Teacher Lecture Competition of School of Electronic and Information Engineering, Tongji University, <strong>First Prize</strong>, 2019.
   - CCF Shanghai (Shanghai Computer Federation), <strong>Outstanding Master’s Thesis Award</strong>: *Research on deep learning method for small sample unbalanced medical image data*, 2024.
@@ -130,11 +129,22 @@ post_content: |
   ### Student Competition Awards (Mentorship)
   - <strong>19th “Challenge Cup” National Undergraduate Extracurricular Academic and Technological Works Competition of China(Main Track)</strong>, <strong>Third Prize</strong>: *TJ-ToothAI—A Large-Model-Driven Multi-Domain Collaborative Oral Prevention and Diagnosis System*, 2025.
   - 19th “Challenge Cup” Undergraduate Extracurricular Academic and Technological Works Competition of Shanghai, <strong>Special Prize</strong>: *TJ-ToothAI—A Large-Model-Driven Multi-Domain Collaborative Oral Prevention and Diagnosis System*, 2025.
-  - Global Campus Artificial Intelligence Algorithm Elite Competition, <strong>National First Prize</strong> and <strong>National Second Prize</strong>, 2024.
   - Female College Students’ Innovation and Entrepreneurship Competition of Shanghai, <strong>Second Prize</strong>: *TJ-ToothAI—A Large-Model-Driven Intelligent Oral Prevention and Diagnosis System*, 2024.
-  - CCF-BDCI Big Data and Computing Intelligence Competition, <strong>National First Prize</strong> and <strong>National Second Prize</strong>, 2022.
-  - CCF CAT National Intelligent Agent Development Competition, <strong>Best Creativity Award</strong> (All Tracks) and <strong>Second Prize</strong> (Social Welfare Empowerment Agent Track), 2024.
-  - ISICDM Challenge, <strong>First Prize</strong> in *Glioma Segmentation*, 2023; Third Prize in *Chest X-ray Pose Assessment*, 2023; <strong>First Prize</strong> in *Lung Tissue Segmentation*, 2020; <strong>Second Prize</strong> in *Low-Dose CT Image Quality Optimization*, 2020; Third Prize in *MR Accelerated Imaging*, 2020; Third Prize in *Liver and Tumor Segmentation*, 2019; <strong>Second Prize</strong> in *Pancreatic CT Image Segmentation*, 2018.
+
+  - Global Campus Artificial Intelligence Algorithm Elite Competition, <strong>National First Prize</strong>: *BI-RADS Classification and Feature Recognition of Breast Ultrasound Images*, 2024.
+  - Global Campus Artificial Intelligence Algorithm Elite Competition, <strong>National Second Prize</strong>: *Steel Surface Defect Detection and Segmentation*, 2024.
+  - CCF-BDCI (Big Data and Computing Intelligence Contest), <strong>National First Prize</strong>: *Robust Visual Question Answering Overcoming Multiple Shortcuts (VQA-VS)*, 2022.
+  - CCF-BDCI (Big Data and Computing Intelligence Contest), <strong>National Second Prize</strong>: *Smart City Visual Multi-Task Recognition Based on ERNIE CV Foundation Model*, 2022.
+  - CCF-BDCI (Big Data and Computing Intelligence Contest), <strong>National Second Prize</strong>: *Multimodal Dialogue Scene and Topic Switching Understanding*, 2022.
+  - CCF-CAT (China Computer Application Technology Competition) Intelligent Agent Development Competition, <strong>Best Creativity Award</strong> (All Tracks): *TJ-Tooth Oral Doctor Assistant*, 2024.
+  - CCF-CAT (China Computer Application Technology Competition) Intelligent Agent Development Competition, <strong>Second Prize</strong> (Social Welfare Empowerment Agent Track), 2024.
+  - ISICDM Challenge (International Symposium on Image Computing and Digital Medicine), <strong>First Prize</strong>: *Glioma Segmentation Challenge*, 2023.
+  - ISICDM Challenge (International Symposium on Image Computing and Digital Medicine), <strong>Third Prize</strong>: *Chest X-ray Pose Estimation Challenge*, 2023.
+  - ISICDM Challenge (International Symposium on Image Computing and Digital Medicine), <strong>First Prize</strong>: *Lung Tissue Segmentation Challenge*, 2020.
+  - ISICDM Challenge (International Symposium on Image Computing and Digital Medicine), <strong>Second Prize</strong>: *Low-dose CT Image Quality Optimization Challenge*, 2020.
+  - ISICDM Challenge (International Symposium on Image Computing and Digital Medicine), <strong>Third Prize</strong>: *Accelerated MR Imaging Challenge*, 2020.
+  - ISICDM Challenge (International Symposium on Image Computing and Digital Medicine), <strong>Third Prize</strong>: *Liver and Tumor Segmentation Challenge*, 2019.
+  - ISICDM Challenge (International Symposium on Image Computing and Digital Medicine), <strong>Second Prize</strong>: *Pancreas CT Image Segmentation Challenge*, 2018.
   - ...
   
   ### Media Coverage
