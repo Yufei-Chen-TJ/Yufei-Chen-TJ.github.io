@@ -62,35 +62,35 @@ We warmly welcome students who are passionate about trustworthy medical AI, poss
 <div class="student-grid">
   <div class="student-card">
     <span class="student-name">Wei Liu</span>
-    <p class="student-note">Excited about AI in medical imaging.</p>
+    <p class="student-note">Much effort, much prosperity.</p>
   </div>
   <div class="student-card">
     <span class="student-name">Yuqi Liu</span>
-    <p class="student-note">Researching deep learning for healthcare.</p>
+    <p class="student-note">Life has two roads: must and want.</p>
   </div>
   <div class="student-card">
     <span class="student-name">Wei Fu</span>
-    <p class="student-note">Interested in robotics and AI.</p>
+    <p class="student-note"></p>
   </div>
   <div class="student-card">
     <span class="student-name">Linye Li</span>
-    <p class="student-note">Excited about AI in medical imaging.</p>
+    <p class="student-note"><a href="https://scholar.google.com/citations?user=-Olw7vwAAAAJ&hl=en" target="_blank" class="student-link">My Google Scholar link</a></p>
   </div>
   <div class="student-card">
     <span class="student-name">Zhichao Chen</span>
-    <p class="student-note">Researching deep learning for healthcare.</p>
+    <p class="student-note">Would you live in peace as Mr. Nobody, or go down for all times in a blaze of glory?</p>
   </div>
   <div class="student-card">
     <span class="student-name">Junliang Chen</span>
-    <p class="student-note">Interested in robotics and AI.</p>
+    <p class="student-note">A heaven in a wild flower, a world in a grain of sand.</p>
   </div>
   <div class="student-card">
     <span class="student-name">Anmin Liu</span>
-    <p class="student-note">Interested in robotics and AI.</p>
+    <p class="student-note">Carpe Diem.</p>
   </div>
   <div class="student-card">
     <span class="student-name">Qunjie Chen</span>
-    <p class="student-note">Interested in robotics and AI.</p>
+    <p class="student-note">Major in mathematics at GuoHao College.<br><a href="http://github.com/QJ0114" target="_blank" class="student-link">My Github link</a></p>
   </div>
 </div>
 
@@ -98,102 +98,102 @@ We warmly welcome students who are passionate about trustworthy medical AI, poss
 <div class="student-grid">
   <div class="student-card">
     <span class="student-name">Haiyan Zheng</span>
-    <p class="student-note">Loves data visualization.</p>
+    <p class="student-note"></p>
   </div>
   <div class="student-card">
     <span class="student-name">Xiaoyu Yang</span>
-    <p class="student-note">Enjoys exploring computational biology.</p>
+    <p class="student-note"></p>
   </div>
     <div class="student-card">
     <span class="student-name">Shaoxun Xu</span>
-    <p class="student-note">Loves data visualization.</p>
+    <p class="student-note"></p>
   </div>
   <div class="student-card">
     <span class="student-name">Genqiang Ren</span>
-    <p class="student-note">Enjoys exploring computational biology.</p>
+    <p class="student-note"></p>
   </div>
   <div class="student-card">
     <span class="student-name">Qian Wu</span>
-    <p class="student-note">Loves data visualization.</p>
+    <p class="student-note"></p>
   </div>
   <div class="student-card">
     <span class="student-name">Wei Fu</span>
-    <p class="student-note">Enjoys exploring computational biology.</p>
+    <p class="student-note"></p>
   </div>
     <div class="student-card">
     <span class="student-name">Gayeon Kim</span>
-    <p class="student-note">Loves data visualization.</p>
+    <p class="student-note"></p>
   </div>
   <div class="student-card">
     <span class="student-name">Shichen Sun</span>
-    <p class="student-note">Enjoys exploring computational biology.</p>
+    <p class="student-note"></p>
   </div>
     <div class="student-card">
     <span class="student-name">Qiguang Huang</span>
-    <p class="student-note">Loves data visualization.</p>
+    <p class="student-note"></p>
   </div>
   <div class="student-card">
     <span class="student-name">Haoxuan Shan</span>
-    <p class="student-note">Enjoys exploring computational biology.</p>
+    <p class="student-note"></p>
   </div>
   <div class="student-card">
     <span class="student-name">Jingen Qu</span>
-    <p class="student-note">Loves data visualization.</p>
+    <p class="student-note"></p>
   </div>
   <div class="student-card">
     <span class="student-name">Xinhao Wen</span>
-    <p class="student-note">Enjoys exploring computational biology.</p>
+    <p class="student-note">Keep Going!<br><a href="https://github.com/oscarab" target="_blank" class="student-link">My Github link</a></p>
   </div>
     <div class="student-card">
     <span class="student-name">Kefan Zhou</span>
-    <p class="student-note">Loves data visualization.</p>
+    <p class="student-note">Time is precious, so are your deams.</p>
   </div>
   <div class="student-card">
     <span class="student-name">Yina Li</span>
-    <p class="student-note">Enjoys exploring computational biology.</p>
+    <p class="student-note">Per aspera ad astra.</p>
   </div>
     <div class="student-card">
     <span class="student-name">Zhengqing Cao</span>
-    <p class="student-note">Loves data visualization.</p>
+    <p class="student-note">Stay curious, stay humble.</p>
   </div>
   <div class="student-card">
     <span class="student-name">Xiaolong Shen</span>
-    <p class="student-note">Enjoys exploring computational biology.</p>
+    <p class="student-note">To experience and enjoy.</p>
   </div>
   <div class="student-card">
     <span class="student-name">Anmin Liu</span>
-    <p class="student-note">Enjoys exploring computational biology.</p>
+    <p class="student-note">Carpe Diem.</p>
   </div>
   <div class="student-card">
     <span class="student-name">Zihan Zhang</span>
-    <p class="student-note">Loves data visualization.</p>
+    <p class="student-note"></p>
   </div>
   <div class="student-card">
     <span class="student-name">Yiying Che</span>
-    <p class="student-note">Enjoys exploring computational biology.</p>
+    <p class="student-note"></p>
   </div>
     <div class="student-card">
     <span class="student-name">Hongzhi Yue</span>
-    <p class="student-note">Loves data visualization.</p>
+    <p class="student-note">To make a small difference in the world.</p>
   </div>
   <div class="student-card">
     <span class="student-name">Yichen Song</span>
-    <p class="student-note">Enjoys exploring computational biology.</p>
+    <p class="student-note">Non terrae plus ultra.</p>
   </div>
   <div class="student-card">
     <span class="student-name">Shengkun Zhang</span>
-    <p class="student-note">Loves data visualization.</p>
+    <p class="student-note"></p>
   </div>
   <div class="student-card">
     <span class="student-name">Hailu Li</span>
-    <p class="student-note">Enjoys exploring computational biology.</p>
+    <p class="student-note"></p>
   </div>
     <div class="student-card">
     <span class="student-name">Tao Liu</span>
-    <p class="student-note">Loves data visualization.</p>
+    <p class="student-note"></p>
   </div>
   <div class="student-card">
     <span class="student-name">Yuyan Chen</span>
-    <p class="student-note">Enjoys exploring computational biology.</p>
+    <p class="student-note"></p>
   </div>
 </div>
