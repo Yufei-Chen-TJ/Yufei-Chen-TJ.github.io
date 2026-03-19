@@ -70,7 +70,7 @@ We warmly welcome students who are passionate about trustworthy medical AI, poss
   </div>
   <div class="student-card">
     <span class="student-name">Wei Fu</span>
-    <p class="student-note"></p>
+    <p class="student-note">one, two, three.</p>
   </div>
   <div class="student-card">
     <span class="student-name">Linye Li</span>
@@ -118,7 +118,7 @@ We warmly welcome students who are passionate about trustworthy medical AI, poss
   </div>
   <div class="student-card">
     <span class="student-name">Wei Fu</span>
-    <p class="student-note"></p>
+    <p class="student-note">one, two, three.</p>
   </div>
     <div class="student-card">
     <span class="student-name">Gayeon Kim</span>
@@ -170,7 +170,7 @@ We warmly welcome students who are passionate about trustworthy medical AI, poss
   </div>
   <div class="student-card">
     <span class="student-name">Yiying Che</span>
-    <p class="student-note"></p>
+    <p class="student-note">Not limited by the past,nor confined to this moment.</p>
   </div>
     <div class="student-card">
     <span class="student-name">Hongzhi Yue</span>
