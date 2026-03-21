@@ -138,7 +138,7 @@ We warmly welcome students who are passionate about trustworthy medical AI, poss
   </div>
   <div class="student-card">
     <span class="student-name">Jingen Qu</span>
-    <p class="student-note"></p>
+    <p class="student-note">Spira, spera.</p>
   </div>
   <div class="student-card">
     <span class="student-name">Xinhao Wen</span>
@@ -186,14 +186,14 @@ We warmly welcome students who are passionate about trustworthy medical AI, poss
   </div>
   <div class="student-card">
     <span class="student-name">Hailu Li</span>
-    <p class="student-note"></p>
+    <p class="student-note">All we have is now.</p>
   </div>
     <div class="student-card">
     <span class="student-name">Tao Liu</span>
-    <p class="student-note"></p>
+    <p class="student-note">Not all who wander are lost.</p>
   </div>
   <div class="student-card">
     <span class="student-name">Yuyan Chen</span>
-    <p class="student-note"></p>
+    <p class="student-note">April showers bring May flowers.</p>
   </div>
 </div>
