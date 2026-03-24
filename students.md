@@ -182,7 +182,7 @@ We warmly welcome students who are passionate about trustworthy medical AI, poss
   </div>
   <div class="student-card">
     <span class="student-name">Shengkun Zhang</span>
-    <p class="student-note"></p>
+    <p class="student-note">Persistent iteration leads to ultimate convergence.</p>
   </div>
   <div class="student-card">
     <span class="student-name">Hailu Li</span>
