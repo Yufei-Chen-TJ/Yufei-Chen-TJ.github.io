@@ -55,6 +55,18 @@ We warmly welcome students who are passionate about trustworthy medical AI, poss
       <img src="/assets/img/students/37.jpg">
       <img src="/assets/img/students/38.jpg">
       <img src="/assets/img/students/39.jpg">
+      <img src="/assets/img/students/40.jpg">
+      <img src="/assets/img/students/41.jpg">
+      <img src="/assets/img/students/42.jpg">
+      <img src="/assets/img/students/43.jpg">
+      <img src="/assets/img/students/44.jpg">
+      <img src="/assets/img/students/45.jpg">
+      <img src="/assets/img/students/46.jpg">
+      <img src="/assets/img/students/47.jpg">
+      <img src="/assets/img/students/48.jpg">
+      <img src="/assets/img/students/49.jpg">
+      <img src="/assets/img/students/50.jpg">
+      <img src="/assets/img/students/51.jpg">
     </div>
   </div>
 
