@@ -86,7 +86,7 @@ post_content: |
 
    ### Media Coverage
     - [AI赋能口腔医疗服务，同济师生团队让健康更有温度！ - 人民日报](https://www.peopleapp.com/rmharticle/30050248011)
-    - [硬核！同济师生研发“AI牙慧诊”系统 - 中国青年报](https://s.cyol.com/articles/2025-09/12/content_v6zpBYI4.html?gid=4LkvKv17)
+    - [硬核！同济师生研发“AI牙慧诊”系统 - 中国青年报](https://news.cyol.com/gb/articles/2025-09/12/content_8E2O93TW4Y.html)
     - [同济大学团队开发“AI牙慧诊”，患者整体就诊时间缩短58% - 文汇报](https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=981428)
     - [【校地合作】科技赋能云龙 智慧共建乡村——同济大学计算机科学与技术学院暑期实践团赴云龙开展实践活动 - 云龙县宣传部](https://mp.weixin.qq.com/s/Y5IM1RzKkGjqXxv6d_Myaw)
     - [AI看牙秒出报告！同济大学新成果亮相嘉定 - 上海嘉定融媒体](https://mp.weixin.qq.com/s/8u3SxojGNGTuZFiAeMuALA)
