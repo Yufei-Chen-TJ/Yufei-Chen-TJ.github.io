@@ -110,23 +110,23 @@ We warmly welcome students who are passionate about trustworthy medical AI, poss
 <div class="student-grid">
   <div class="student-card">
     <span class="student-name">Haiyan Zheng</span>
-    <p class="student-note"></p>
+    <p class="student-note">Keep a single spark to start a prairie fire.</p>
   </div>
   <div class="student-card">
     <span class="student-name">Xiaoyu Yang</span>
-    <p class="student-note"></p>
+    <p class="student-note"><a href="https://xiaoyuyoung.github.io/" target="_blank" class="student-link">My Homepage Link</a><br><a href="https://scholar.google.com/citations?&user=tqjfj-EAAAAJ" target="_blank" class="student-link">My Google Scholar link</a></p>
   </div>
     <div class="student-card">
     <span class="student-name">Shaoxun Xu</span>
-    <p class="student-note"></p>
+    <p class="student-note">Pure Life Outsider Preview</p>
   </div>
   <div class="student-card">
     <span class="student-name">Genqiang Ren</span>
-    <p class="student-note"></p>
+    <p class="student-note">git push origin --force-with-lease destiny</p>
   </div>
   <div class="student-card">
     <span class="student-name">Qian Wu</span>
-    <p class="student-note"></p>
+    <p class="student-note">Do you know we also go by Feifei Lab? :-)</p>
   </div>
   <div class="student-card">
     <span class="student-name">Wei Fu</span>
@@ -138,15 +138,15 @@ We warmly welcome students who are passionate about trustworthy medical AI, poss
   </div>
   <div class="student-card">
     <span class="student-name">Shichen Sun</span>
-    <p class="student-note"></p>
+    <p class="student-note">Always be a beginner.</p>
   </div>
     <div class="student-card">
     <span class="student-name">Qiguang Huang</span>
-    <p class="student-note"></p>
+    <p class="student-note">More papers!</p>
   </div>
   <div class="student-card">
     <span class="student-name">Haoxuan Shan</span>
-    <p class="student-note"></p>
+    <p class="student-note">The hymn of humanity is the hymn of courage.</p>
   </div>
   <div class="student-card">
     <span class="student-name">Jingen Qu</span>
@@ -178,7 +178,7 @@ We warmly welcome students who are passionate about trustworthy medical AI, poss
   </div>
   <div class="student-card">
     <span class="student-name">Zihan Zhang</span>
-    <p class="student-note"></p>
+    <p class="student-note">Living my best life.</p>
   </div>
   <div class="student-card">
     <span class="student-name">Yiying Che</span>
