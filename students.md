@@ -158,7 +158,7 @@ We warmly welcome students who are passionate about trustworthy medical AI, poss
   </div>
     <div class="student-card">
     <span class="student-name">Kefan Zhou</span>
-    <p class="student-note">Time is precious, so are your deams.</p>
+    <p class="student-note">Time is precious, so are your dreams.</p>
   </div>
   <div class="student-card">
     <span class="student-name">Yina Li</span>
